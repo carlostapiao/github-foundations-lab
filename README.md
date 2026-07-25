@@ -19,3 +19,5 @@ Repositorio de práctica para certificarme en *Git hub Foundations*.
 ## Ejemplo de código
 ```bash
 
+## Contacto
+Para dudas sobre este laboratorio, abre un Issue en el repositorio.
