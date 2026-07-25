@@ -1,0 +1,24 @@
+name: Laboratorio CI
+
+# Trigger: Evento que dispara la ejecución
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    # Runner: El entorno o máquina virtual donde corre el trabajo
+    runs-on: ubuntu-latest
+
+    steps:
+    # Acción oficial para descargar el código del repositorio en el runner
+    - name: Checkout del código
+      uses: actions/checkout@v4
+
+    # Comando de línea de comandos en el runner
+    - name: Probar ejecución de comandos
+      run: |
+        echo "¡Hola desde GitHub Actions!"
+        echo "Ejecutando pruebas del repositorio..."
