@@ -18,8 +18,4 @@ Repositorio de práctica para certificarme en *Git hub Foundations*.
 
 ## Ejemplo de código
 ```bash
-# Clonar el repositorio localmente
-git clone [https://github.com/tu-usuario/github-foundations-lab.git](https://github.com/tu-usuario/github-foundations-lab.git)
 
-## Flujo de Trabajo
-Demostración práctica del GitHub Flow mediante Pull Request.
