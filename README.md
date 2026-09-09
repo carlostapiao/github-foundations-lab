@@ -16,14 +16,6 @@ Repositorio de práctica para certificarme en *Git hub Foundations*.
 | `git commit -m` | Guarda los cambios en el historial local | `git commit -m "feat: add login"` |
 | 123 | 456 | 789 |
 
-## Ejemplo de código
-```bash
-
-## Contacto
-Para dudas sobre este laboratorio, abre un Issue en el repositorio.
-123456789
-
-
 
 # Titulo principal
 ## titulo secundario
