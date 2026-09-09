@@ -25,4 +25,43 @@ Para dudas sobre este laboratorio, abre un Issue en el repositorio.
 
 
 
+# Titulo principal
+## titulo secundario
+### titulo terciario
+
+**Negrita**
+
+*cursiva*
+
+~~texto~~
+
+* elemento1
+- elemento2
+
+1. elemento 3
+2. elemento 4
+3. elemento 5
+
+- [ ] pendiente
+- [x] completada
+
+`código`
+
+```bash
+
+
+echo "Hola"
+
+
+```
+
+
+> texto descatacado
+
+| principal | secundario | terciario |
+
+@usuario123
+
+
+
 16546
